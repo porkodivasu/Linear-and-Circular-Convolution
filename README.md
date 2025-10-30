@@ -95,3 +95,4 @@ title("Circular Convolution of x(n) and h(n)");
 
 
 ## RESULT: 
+Linear and Circular Convolution for two given sequence using SCILAB was performed.
